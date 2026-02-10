@@ -63,4 +63,4 @@ A continuación se muestra el diseño de la interfaz (UI) y la experiencia de us
 * **Integración:** Intents implícitos (Teléfono, Google Maps)
 
 ## 👤 Autor
-Desarrollado por **[Tu Nombre]**.
+Desarrollado por **Ivan Pereira**.
